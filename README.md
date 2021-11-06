@@ -1,6 +1,6 @@
 ### Hi there, I'm Sergi Tur Badenas 👋
 
-- 🔭 I’m currently working as Computer Science Teacher at Institut de l'Ebre, Tortosa, Spain.
+- 🔭 I’m currently working as Computer Science Teacher at [Institut de l'Ebre](https://www.iesebre.com), Tortosa, Catalonia.
 
 <!--
 **acacha/acacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
