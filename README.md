@@ -1,4 +1,5 @@
-![Twitter](https://twitter.com/badenastur)
+![Twitter](https://twitter.com/badenastur) | [![Twitter Followers](https://badgen.net/twitter/follow/javascript)](https://twitter.com/javascript)
+
 
 
 ### Hi there, I'm Sergi Tur Badenas 👋
