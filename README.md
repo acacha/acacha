@@ -1,4 +1,4 @@
-![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
+![Twitter](https://twitter.com/badenastur)
 
 
 ### Hi there, I'm Sergi Tur Badenas 👋
