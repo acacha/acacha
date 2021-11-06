@@ -3,9 +3,14 @@
 🔭 I’m currently working as Computer Science Teacher at [Institut de l'Ebre](https://www.iesebre.com) at [computer department](https://www.instagram.com/informaticainstitutebre), Tortosa, Catalonia.
 - I've a lot of experience teaching complex concepts for noobs about Linux Operating Systems (Ubuntu), Full Stack Development:
 - Backend: Laravel, LivewireJS, REST Apis, NodeJs
-- Frontend: Vanilla Javascript, Jquery, VueJS
+- Frontend: Vanilla Javascript, Jquery, VueJS and Progressive Web Apps
 - Native Mobile Apps development with Android and Ionic
 - Desktop applications with ElectronJS
+- CSS Frameworks: TailwindCSS, Vuetify, Bulma, Bootstrap
+
+Most revelant Public projects:
+- [Adminlte-laravel](https://github.com/acacha/adminlte-laravel): A Laravel 5 package that switchs default Laravel scaffolding/boilerplate to AdminLTE template and Pratt Landing Page with Bootstrap 3.0 https://github.com/acacha/adminlte-laravel
+- [Acacha wiki](https://acacha.org): Mediawiki with lots of content about Linux OS, Networks, Software Development...
 
 📫 How to reach me:
 
