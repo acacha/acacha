@@ -14,6 +14,8 @@ Most revelant Public projects:
 
 Content ONLY for Sponsors:
 - Material en català per a preparar el Linux Professional Institute (LPI): https://github.com/acacha/lpi
+- *Scool*: aplicació PHP amb Laravel per a la gestió d'Instituts: https://github.com/acacha/scool
+- *Ebre-escool*: aplicació PHP CodeIgniter per a la gestió d'Instituts: https://github.com/acacha/ebre-escool
 
 📫 How to reach me:
 
