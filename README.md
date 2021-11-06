@@ -1,3 +1,6 @@
+![Tweeting](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)
+
+
 ### Hi there, I'm Sergi Tur Badenas 👋
 
 🔭 I’m currently working as Computer Science Teacher at [Institut de l'Ebre](https://www.iesebre.com) at [computer department](https://www.instagram.com/informaticainstitutebre), Tortosa, Catalonia.
