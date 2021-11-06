@@ -1,4 +1,4 @@
-![Twitter](https://twitter.com/badenastur) | [![Twitter Followers](https://badgen.net/twitter/follow/javascript)](https://twitter.com/javascript)
+![Twitter](https://twitter.com/badenastur) | [![Twitter Followers](https://badgen.net/twitter/follow/BadenasTur)](https://twitter.com/BadenasTur)
 
 
 
