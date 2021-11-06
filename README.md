@@ -8,7 +8,9 @@
 - Desktop applications with ElectronJS
 
 📫 How to reach me:
-- 
+
+
+![image](https://user-images.githubusercontent.com/4015406/140618492-f5742356-793e-4cff-980d-56722b2b4d48.png)
 
 <!--
 **acacha/acacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
