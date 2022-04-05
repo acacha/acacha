@@ -31,6 +31,16 @@ Content ONLY for Sponsors:
 
 ![image](https://user-images.githubusercontent.com/4015406/140618492-f5742356-793e-4cff-980d-56722b2b4d48.png)
 
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="flex">
+<a href="https://github.com/l3lackJack">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=l3lackJack&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=l3lackJack&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  <p align="flex"><img src="https://github-readme-streak-stats.herokuapp.com/?user=l3lackJack&theme=algolia" alt="l3lackJack"/></p>
+</p>
+
 <!--
 **acacha/acacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
